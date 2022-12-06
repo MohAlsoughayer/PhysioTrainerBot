@@ -1,0 +1,27 @@
+Exercise,Calves,Quadriceps,Hamstrings,Gluteus,Hipsother,Lowerback,Lats,Trapezius,Abdominals,Pectorals,Deltoids,Triceps,Biceps,Forearms
+Squat,2,1,2,1,1,2,0,0,1,0,0,0,0,0
+Leg press,2,1,2,1,0,0,0,0,0,0,0,0,0,0
+Lunge,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Deadlift,2,1,1,1,1,1,0,2,2,0,0,0,0,2
+Leg extension,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Leg curl,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+Standing calf raise,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seated calf raise,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hip adductor,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bench press,0,0,0,0,0,0,0,0,0,1,2,1,0,0
+Chest fly,0,0,0,0,0,0,0,0,0,1,2,0,0,0
+Push-up,0,0,0,0,0,0,0,0,0,1,2,1,0,0
+Pull-down,0,0,0,0,0,0,1,2,0,0,0,0,2,0
+Pull-up,0,0,0,0,0,0,1,2,0,0,0,0,2,2
+Bent-over row,0,0,0,0,0,0,1,1,0,0,0,0,2,0
+Upright row,0,0,0,0,0,0,0,1,0,0,1,0,2,0
+Shoulder press,0,0,0,0,0,0,0,2,0,0,1,1,0,0
+Lateral raise,0,0,0,0,0,0,0,2,0,0,1,0,0,0
+Shoulder shrug,0,0,0,0,0,0,0,1,0,0,0,0,0,2
+Pushdown,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Triceps extension,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+Biceps curl,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+Crunch,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Russian twist,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Leg raise,0,0,0,0,1,0,0,0,2,0,0,0,0,0
+Back extension,2,0,1,1,0,1,0,0,0,0,0,0,0,0
