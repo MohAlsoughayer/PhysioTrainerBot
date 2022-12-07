@@ -16,12 +16,12 @@ class ChatBot():
         print("----- Starting up", name, "-----")
         self.name = name
 
-    def speech_to_text(self):
+    def get_input(self):
         self.text = input("Me  --> ")
             
 
     @staticmethod
-    def text_to_speech(text):
+    def respond(text):
         print("PhysioTrainerBot --> ", text)
         
         
@@ -43,7 +43,7 @@ if __name__ == "__main__":
     
     ex=True
     while ex:
-        ai.speech_to_text()
+        ai.get_input()
 
         ## wake up
         if ai.wake_up(ai.text) is True:
@@ -70,5 +70,5 @@ if __name__ == "__main__":
                 res = str(chat)
                 res = res[res.find("bot >> ")+6:].strip()
 
-        ai.text_to_speech(res)
+        ai.respond(res)
     print("----- Closing down PhysioTrainerBot -----")
